@@ -1,3 +1,3 @@
 # notepadTkinter
-Fully functional Notepad made by using tkinter module of python.
+Fully functional Notepad made using tkinter module of python.
 Made by Vineet Thakran.
